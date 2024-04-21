@@ -8,10 +8,10 @@ Desarrolla una aplicación web utilizando React que permita a los usuarios gesti
 
 1. Interfaz de Usuario:
 
-    ‣ Debe haber un campo de entrada donde los usuarios puedan agregar nuevas tareas.
-    ‣ Debe haber una lista de tareas que muestre todas las tareas agregadas por el usuario.
-    ‣ Cada tarea en la lista debe tener una casilla de verificación que permita marcarla como completada.
-    ‣ Debe haber botones o iconos que permitan editar y eliminar cada tarea individualmente.
+    - Debe haber un campo de entrada donde los usuarios puedan agregar nuevas tareas.
+    - Debe haber una lista de tareas que muestre todas las tareas agregadas por el usuario.
+    - Cada tarea en la lista debe tener una casilla de verificación que permita marcarla como completada.
+    - Debe haber botones o iconos que permitan editar y eliminar cada tarea individualmente.
 
 2. Funcionalidad:
 
