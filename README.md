@@ -41,3 +41,5 @@ Desarrolla una aplicación web utilizando React que permita a los usuarios gesti
 - Crea una nueva rama con tu nombre.
 - Desarrolla la aplicación siguiendo los requerimientos mencionados anteriormente.
 - Haz commit de tus cambios con mensajes claros.
+
+Infoexperto. Elegí el futuro.
